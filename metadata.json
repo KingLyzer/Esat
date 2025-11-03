@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kubilay Shoes - Stok ve Mağaza Yönetim Sistemi",
+  "description": "Kubilay Shoes için web tabanlı, kullanıcı girişli, tam teşekküllü bir stok ve mağaza yönetim uygulaması. Bu uygulama stok takibi, satış işlemleri, raporlama ve kullanıcı yönetimi gibi özellikleri içerir.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
